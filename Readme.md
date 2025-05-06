@@ -1,10 +1,12 @@
 # Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
+Projeto desenvolvido por [Nathally Souza](https://github.com/nathyts)
+Desafio realizado por [Emanuele Bittencourt](https://www.linkedin.com/in/emanuele-bittencourt-quiquinato/)
 
 #### Projeto desenvolvido com conceitos básicos de typescript
 
 ### Tecnologias
 - Typescript
+- Node.js
 
 ### Como rodar o projeto
 
@@ -36,3 +38,9 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 [ ok ] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
 
 [ ok ] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
+
+### Certificados de conclusão dos cursos
+
+- [Introdução ao TypeScript](https://www.dio.me/certificate/SBUVDTVS/share)
+- [Programação Orientada a Objetos com TypeScript](https://www.dio.me/certificate/KUWEZ4TK/share)
+- [Construindo um app simples de banco com TypeScript](https://www.dio.me/certificate/G7GGLRHD/share)
